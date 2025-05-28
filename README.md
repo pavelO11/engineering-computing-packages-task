@@ -18,3 +18,17 @@
   расхождения уровней F и D ≤ 10%,<br/>
   одинаковой степени тяжести и<br/>
   либо оба не вакцинированы, либо обеим введена одна и та же вакцина.<br/>
+
+| Файл | Описание |
+| --- | --- |
+| results/pairs_SputnikV_м.csv | Пары мужчин, вакцина **SputnikV** |
+| results/pairs_SputnikV_ж.csv | Пары женщин, вакцина **SputnikV** |
+| results/pairs_SputnikLight_м.csv | Пары мужчин, вакцина **SputnikLight** |
+| results/pairs_SputnikLight_ж.csv | Пары женщин, вакцина **SputnikLight** |
+| results/pairs_EpiVacCorona_м.csv | Пары мужчин, вакцина **EpiVacCorona** |
+| results/pairs_EpiVacCorona_ж.csv | Пары женщин, вакцина **EpiVacCorona** |
+| results/pairs_KoviVac_м.csv | Пары мужчин, вакцина **KoviVac** |
+| results/pairs_KoviVac_ж.csv | Пары женщин, вакцина **KoviVac** |
+| results/pairs_Unvaccinated_м.csv | Пары мужчин **без вакцинации** |
+| results/pairs_Unvaccinated_ж.csv | Пары женщин **без вакцинации** |
+
