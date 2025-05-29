@@ -467,7 +467,7 @@ def main():
             print("Не найдено подходящих записей пациентов из файлов пар.")
         else:
             df_from_pairs = pd.DataFrame(all_patient_records)
-            df_from_pairs.drop_duplicates(subset=['CaseID', 'Therapy_Group'], inplace=True)
+            # df_from_pairs.drop_duplicates(subset=['CaseID', 'Therapy_Group'], inplace=True)
 
             current_df_to_analyze = pd.merge(df_from_pairs, master_df, on='CaseID', how='left')
             
